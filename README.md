@@ -1,5 +1,7 @@
 # SecureRunFLHIK
 
+##LanChang！
+
 xxx_make.sh文件负责各个程序的编译工作，编译后会生成可执行文件，名为xxx或者xxx.exe。其中的xxx是源程序的名称。例如：flex_make.sh文件负责flex源文件的编译工作。该脚本文件不需要人为运行，只需要将其复制到scripts文件夹下,creatRunSHELL.sh脚本会执行该xxx_make.sh文件。
 
 creatRunSHELL.sh脚本执行需要3个必须参数，一个可选参数。命令格式如下：
